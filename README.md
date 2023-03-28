@@ -1,4 +1,8 @@
-# Learning Curve Initiative
+# :warning: We are moving to a new space :warning:
+
+Check out [our new space](https://github.com/Learning-Curve-Initiative/LearningCurveInitiative) for further updates!!
+
+## Learning Curve Initiative
 
 Repo for building a framework for highlighting negative data
 
